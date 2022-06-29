@@ -1,0 +1,10 @@
+aerial.bmp
+airfield.bmp
+baboon.bmp
+barb.bmp
+boat.bmp
+couple.bmp
+house.bmp
+plane.bmp
+peppers.bmp
+tank.bmp
