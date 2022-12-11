@@ -10,6 +10,7 @@ Encrypt images please follow these following steps:
 
 This algorithm we have published on Nonlinear Dynamics. You can obtain our work by https://doi.org/10.1007/s11071-022-08021-1.
 If our work is helpful to you, please cite our paper by
+
 @article{lv2022robustness,
 
   title={A robustness-improved image encryption scheme utilizing Life-liked cellular automaton},
