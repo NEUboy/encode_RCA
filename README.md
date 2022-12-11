@@ -1,4 +1,4 @@
-# encode_RCA
+# A robustness-improved image encryption scheme utilizing Life-liked cellular automaton
 A C++ code for encrypt images
 
 It is strongly recomended to encrypt images with size of 512*512 and 8-bit gray.
